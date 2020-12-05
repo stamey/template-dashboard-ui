@@ -120,7 +120,7 @@ label #sidebar_btn:hover
 
 .content {
   margin-left: 250px;
-  background: url("../images/background.JPG") no-repeat;
+  background: url("../img/background.JPG") no-repeat;
   background-position: center;
   background-size: cover;
   height: 100vh;

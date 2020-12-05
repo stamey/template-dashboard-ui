@@ -1,0 +1,22 @@
+{
+  "name": "template-dashboard-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wwwroot\\index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stamey/template-dashboard-ui.git"
+  },
+  "author": "Joel Stamey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stamey/template-dashboard-ui/issues"
+  },
+  "homepage": "https://github.com/stamey/template-dashboard-ui#readme",
+  "devDependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
